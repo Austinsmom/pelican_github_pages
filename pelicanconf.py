@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = '9527'
-SITENAME = "9527's Blog"
+AUTHOR = 'P.Green'
+SITENAME = "9527's blog"
 SITEURL = ''
 
 PATH = 'content'
@@ -23,13 +23,13 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('虎扑', 'https://nba.hupu.com'),)
+         ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('github', '#'),
-          ('qq', '#'),)
+SOCIAL = (('You can add links in your config file', '#'),
+          ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 3
+DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

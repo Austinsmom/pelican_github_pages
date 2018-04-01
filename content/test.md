@@ -1,9 +1,10 @@
-Title: My First Blog
-Date: 2018-3-31 23:36:48
+Title: My super title
+Date: 2018-4-1 14:46:36
+Modified: 2222-12-05 19:30
 Category: Python
 Tags: pelican, publishing
-Slug: pelican-installl
-Author: 9527
+Slug: my-super-post
+Authors: Alexis Metaireau, Conan Doyle
 Summary: Short version for index and feeds
 
-This is the content of my blog post.
+This is the content of my super blog post.
